@@ -1,5 +1,6 @@
 AI Changed the Game. But What's the Real Story?
-
+## Live Dashboard
+[Click here to explore the interactive dashboard](https://ai-developer-dashboard-5sritqcuaglx8appvgfzlmr.streamlit.app/)
 Project Overview
 An interactive data analysis and visualization project based on the **Stack Overflow Developer Survey 2024**.
 
